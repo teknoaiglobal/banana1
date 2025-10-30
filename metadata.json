@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Generator",
+  "description": "An AI-powered image generation tool that allows users to create images from simple text prompts. Describe your desired image, and let Gemini 2.5 Flash Image generate the result.",
+  "requestFramePermissions": []
+}
